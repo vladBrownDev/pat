@@ -1,0 +1,83 @@
+#contact {
+    max-width: 1500px;
+    margin: 0 auto 0 auto;
+    max-height: 1000px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+#contact h1 {
+    color: gray;
+    font-size: 40px;
+    margin-bottom: 60px;
+}
+#contactText {
+    border-bottom: 1px solid rgb(245, 97, 97);
+    height: 350px;
+    justify-content: flex-start;
+    width: 100%;
+    padding: 0 1vw 0 1vw;
+}
+.contactColumn {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    width: 20vw;
+    height: 10vw;
+    min-width: 350px;
+}
+.contactColumn h3 {
+    color: red;
+    text-align: left;
+    margin: 0;
+    font-size: 24px;
+}
+.contactColumn p {
+    margin: 0.35vw 0 0 0;
+    text-align: left;
+}
+.contactColumn a {
+    color: rgb(225, 99, 99);
+    font-size: 25px;
+    text-decoration: none;
+}
+#contactColWrap {
+    height: 400px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    flex-wrap: wrap;
+    width: 20vw;
+}
+.tel::before {
+    content: " ";
+    width: 17px;
+    display: inline-block;
+    margin-right: 10px;
+    height: 17px;
+    background-image: url("../media/phone.png");
+    background-size: cover;
+}
+.mail::before {
+    content: " ";
+    width: 17px;
+    display: inline-block;
+    margin-right: 10px;
+    height: 17px;
+    background-image: url("../media/mail.png");
+    background-position: center;
+    background-size: 150%;
+}
+.contactColumnLast {
+    min-width: 600px;
+}
+.contactForm {
+    margin-top: 80px;
+}
+.contactInput {
+    width: 99% !important;
+    height: 3.5vw !important;
+}
+.contactFormCol {
+    width: 33%;
+}

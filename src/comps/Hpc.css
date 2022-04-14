@@ -1,0 +1,66 @@
+#hpcImg {
+    width: 100vw;
+    height: 20vw;
+    background-image: url("../media/hpc.jpg");
+    background-size: 100%;
+    background-position: center;
+    transition: 1s all ease-in;
+    font-size: 35px;
+    font-weight: bold;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#hpcImg:hover {
+    background-size: 106%;
+}
+#hpcText {
+    background-color: rgb(231, 231, 231);
+    max-width: 1500px;
+    margin: 30px 10px 100px 0;
+    -webkit-box-shadow: 2px 2px 15px 5px rgba(0,0,0,0.2); 
+    box-shadow: 2px 2px 15px 5px rgba(0,0,0,0.2);
+}
+#hpcSec {
+    background-color: white;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: center;
+}
+#mainHpc {
+    width: 45vw;
+    padding: 0 5vw 0 5vw;
+}
+#mainHpc h1 {
+    font-size: 30px;
+    font-weight: normal;
+    border-bottom: 2px solid red;
+    display: inline-block;
+}
+#mainHpc h3 {
+    display: flex;
+    justify-content: flex-end;
+    width: 100%;
+    font-size: 15px;
+}
+#mainHpc p {
+    font-size: 16px;
+}
+#sideHpc {
+    background-color: rgb(231, 231, 231);
+    margin: 30px 10px 100px 0;
+    -webkit-box-shadow: 2px 2px 15px 5px rgba(0,0,0,0.2); 
+    box-shadow: 2px 2px 15px 5px rgba(0,0,0,0.2);
+    width: 20vw;
+    padding: 0 0 0 0.5vw;
+}
+#sideHpc h3 {
+    font-size: 15px;
+    color: grey;
+}
+#sideHpc li {
+    color: grey;
+    font-size: 15px;
+    cursor:pointer;
+}

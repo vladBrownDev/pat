@@ -1,0 +1,114 @@
+#productBanner {
+    width: 576px;
+    height: 288px;
+}
+.productDescSection {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: flex-start;
+    margin-left: 15px;
+}
+.productDescSection h1 {
+    display: inline-block !important;
+}
+.productDesc {
+    width: 50vw;
+    color: rgb(104, 101, 101);
+    font-size: 0.83vw;
+    line-height: 1.25vw;
+}
+@media screen and (max-width:1400px) {
+    .productDesc {
+        width: 30vw;
+    }
+    #featureList {
+        min-width: 0px !important;
+        width: 70vw;
+    }
+    #productBanner {
+        width: 50vw;
+    }
+}
+#upperProduct {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    max-width: 1555px;
+    margin: 200px auto 0 auto;
+    padding-bottom: 70px;
+}
+#features {
+    width: 100vw;
+    min-height: 420px;
+    background-color: rgb(223, 223, 223);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 70px;
+}
+#features h1, #specs h1 {
+    font-size: 40px;
+    color: grey;
+    margin-top: 20px;
+}
+#featureList {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: flex-start;
+    height: 40%;
+    min-width: 1000px;
+}
+.starImg {
+    width: 6.77vw;
+    height: 5.20vw;
+}
+.feature {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 20vw;
+}
+.feature h3 {
+    color: red;
+    font-size: 1.04vw;
+    max-width: 500px;
+    text-align: center;
+    font-weight: normal;
+}
+.topTable {
+    background-color: gray;
+    color: white;
+    font-weight: bold;
+}
+#specs {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+table {
+    border-spacing: 0px;
+    border-collapse: collapse;
+}
+tr td:nth-child(2) {
+    width: 60vw;
+}
+tr td:nth-child(1) {
+    width: 10vw;
+}
+td {
+    padding:10px 20px;
+    border: 1px solid black;
+}
+tr:nth-child(2n) {
+    background-color: rgb(214, 214, 214);
+}
+.featureDesc {
+    max-width: 18vw;
+    text-align: center;
+    color: gray;
+    font-size: 0.72vw;
+}
