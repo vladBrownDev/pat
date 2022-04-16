@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/pat/static/css/main.5b08d78f.css",
-    "main.js": "/pat/static/js/main.c1160058.js",
+    "main.css": "/pat/static/css/main.b51db155.css",
+    "main.js": "/pat/static/js/main.7d40308c.js",
     "static/media/seventh.png": "/pat/static/media/seventh.c310700a8e63908f2281.png",
     "static/media/sixth.png": "/pat/static/media/sixth.66e6fcbbc00ce44f2cf3.png",
     "static/media/soft2.png": "/pat/static/media/soft2.3c4ccee78b46f5741428.png",
@@ -43,11 +43,11 @@
     "static/media/phone.png": "/pat/static/media/phone.1fcf8791a28621181476.png",
     "static/media/fusLogo.svg": "/pat/static/media/fusLogo.de770701697553938aa4763ec9eb346c.svg",
     "index.html": "/pat/index.html",
-    "main.5b08d78f.css.map": "/pat/static/css/main.5b08d78f.css.map",
-    "main.c1160058.js.map": "/pat/static/js/main.c1160058.js.map"
+    "main.b51db155.css.map": "/pat/static/css/main.b51db155.css.map",
+    "main.7d40308c.js.map": "/pat/static/js/main.7d40308c.js.map"
   },
   "entrypoints": [
-    "static/css/main.5b08d78f.css",
-    "static/js/main.c1160058.js"
+    "static/css/main.b51db155.css",
+    "static/js/main.7d40308c.js"
   ]
 }
