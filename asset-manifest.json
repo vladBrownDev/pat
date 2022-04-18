@@ -1,19 +1,22 @@
 {
   "files": {
-    "main.css": "/pat/static/css/main.b51db155.css",
-    "main.js": "/pat/static/js/main.7d40308c.js",
+    "main.css": "/pat/static/css/main.cff3cc85.css",
+    "main.js": "/pat/static/js/main.22cfb225.js",
+    "static/media/products.jpg": "/pat/static/media/products.7f70cc64a07eb4b371c6.jpg",
+    "static/media/partnerreg.jpg": "/pat/static/media/partnerreg.18274185eb1b521a713b.jpg",
+    "static/media/banner.jpg": "/pat/static/media/banner.038bf73138a100077935.jpg",
     "static/media/seventh.png": "/pat/static/media/seventh.c310700a8e63908f2281.png",
     "static/media/sixth.png": "/pat/static/media/sixth.66e6fcbbc00ce44f2cf3.png",
     "static/media/soft2.png": "/pat/static/media/soft2.3c4ccee78b46f5741428.png",
     "static/media/soft4.png": "/pat/static/media/soft4.df2912f9b57f7aacfb52.png",
     "static/media/soft1.png": "/pat/static/media/soft1.53ce1d8bd79eb6f6e687.png",
-    "static/media/banner.png": "/pat/static/media/banner.767a77e9d958a48fda58.png",
     "static/media/soft3.png": "/pat/static/media/soft3.a5ee508c0278fe263797.png",
     "static/media/owner1.png": "/pat/static/media/owner1.9baee272e54cf882b541.png",
     "static/media/owner2.png": "/pat/static/media/owner2.b872db23e6ce47fd72c7.png",
     "static/media/eight.jpeg": "/pat/static/media/eight.baf1ed86dd969b52522b.jpeg",
     "static/media/third.jpeg": "/pat/static/media/third.2a5e29b00802d3c6065d.jpeg",
     "static/media/zero.jpeg": "/pat/static/media/zero.cc03b27341f0d1a92bb9.jpeg",
+    "static/media/Absolut.jpg": "/pat/static/media/Absolut.95bf5ac84e7bba574382.jpg",
     "static/media/ninth.jpeg": "/pat/static/media/ninth.844ccbffe1c793ec48bf.jpeg",
     "static/media/success2.jpg": "/pat/static/media/success2.5d93129772503e6db3c3.jpg",
     "static/media/fourth.jpeg": "/pat/static/media/fourth.0bcefb4c0991cd17eaf9.jpeg",
@@ -27,10 +30,10 @@
     "static/media/smallSoft1.jpeg": "/pat/static/media/smallSoft1.b221b27d499d740b2db1.jpeg",
     "static/media/smallSoft2.jpeg": "/pat/static/media/smallSoft2.162727b30ddbb979782e.jpeg",
     "static/media/smallSoft4.jpg": "/pat/static/media/smallSoft4.f14968c09b01a3bb7ca1.jpg",
-    "static/media/banner1.jpg": "/pat/static/media/banner1.9275edf31e08f5615746.jpg",
-    "static/media/banner3.jpg": "/pat/static/media/banner3.06097fc65b0852749d73.jpg",
-    "static/media/banner4.jpg": "/pat/static/media/banner4.8661efecfb7041a65075.jpg",
-    "static/media/banner2.jpg": "/pat/static/media/banner2.bc3319e317c367acdcd6.jpg",
+    "static/media/banner1.jpg": "/pat/static/media/banner1.4cde9508decb3d37b2fb.jpg",
+    "static/media/banner3.jpg": "/pat/static/media/banner3.acdedaba3dddc40cc802.jpg",
+    "static/media/banner4.jpg": "/pat/static/media/banner4.3b62a7efa8487b81c9b4.jpg",
+    "static/media/banner2.jpg": "/pat/static/media/banner2.354fa94af108166c5504.jpg",
     "static/media/table3.png": "/pat/static/media/table3.24c3020d96bf5d6d4292.png",
     "static/media/table4.png": "/pat/static/media/table4.82804d0d68174e655664.png",
     "static/media/cross.png": "/pat/static/media/cross.49bae570232f24e0be7f.png",
@@ -39,15 +42,14 @@
     "static/media/icom.png": "/pat/static/media/icom.5d617a6fbf270fae1d15.png",
     "static/media/mail.png": "/pat/static/media/mail.70a57018cf82490495b8.png",
     "static/media/table.png": "/pat/static/media/table.960ba8e55d32619ca457.png",
-    "static/media/logo.png": "/pat/static/media/logo.de9961ce152c06f63b7a.png",
     "static/media/phone.png": "/pat/static/media/phone.1fcf8791a28621181476.png",
     "static/media/fusLogo.svg": "/pat/static/media/fusLogo.de770701697553938aa4763ec9eb346c.svg",
     "index.html": "/pat/index.html",
-    "main.b51db155.css.map": "/pat/static/css/main.b51db155.css.map",
-    "main.7d40308c.js.map": "/pat/static/js/main.7d40308c.js.map"
+    "main.cff3cc85.css.map": "/pat/static/css/main.cff3cc85.css.map",
+    "main.22cfb225.js.map": "/pat/static/js/main.22cfb225.js.map"
   },
   "entrypoints": [
-    "static/css/main.b51db155.css",
-    "static/js/main.7d40308c.js"
+    "static/css/main.cff3cc85.css",
+    "static/js/main.22cfb225.js"
   ]
 }
