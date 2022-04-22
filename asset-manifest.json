@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/pat/static/css/main.19c7c136.css",
+    "main.css": "/pat/static/css/main.031637ae.css",
     "main.js": "/pat/static/js/main.67f87cf6.js",
     "static/media/mainpage.png": "/pat/static/media/mainpage.1100f9dfe447bc0569eb.png",
     "static/media/products.jpg": "/pat/static/media/products.7f70cc64a07eb4b371c6.jpg",
@@ -44,11 +44,11 @@
     "static/media/mail.png": "/pat/static/media/mail.4f94d0ea54af92aabb48.png",
     "static/media/fusLogo.svg": "/pat/static/media/fusLogo.de770701697553938aa4763ec9eb346c.svg",
     "index.html": "/pat/index.html",
-    "main.19c7c136.css.map": "/pat/static/css/main.19c7c136.css.map",
+    "main.031637ae.css.map": "/pat/static/css/main.031637ae.css.map",
     "main.67f87cf6.js.map": "/pat/static/js/main.67f87cf6.js.map"
   },
   "entrypoints": [
-    "static/css/main.19c7c136.css",
+    "static/css/main.031637ae.css",
     "static/js/main.67f87cf6.js"
   ]
 }
