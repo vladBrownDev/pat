@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/pat/static/css/main.4fe19438.css",
-    "main.js": "/pat/static/js/main.98a10a05.js",
+    "main.css": "/pat/static/css/main.19c7c136.css",
+    "main.js": "/pat/static/js/main.67f87cf6.js",
     "static/media/mainpage.png": "/pat/static/media/mainpage.1100f9dfe447bc0569eb.png",
     "static/media/products.jpg": "/pat/static/media/products.7f70cc64a07eb4b371c6.jpg",
     "static/media/partnerreg.jpg": "/pat/static/media/partnerreg.18274185eb1b521a713b.jpg",
@@ -11,7 +11,9 @@
     "static/media/soft3.png": "/pat/static/media/soft3.a5ee508c0278fe263797.png",
     "static/media/owner1.png": "/pat/static/media/owner1.9baee272e54cf882b541.png",
     "static/media/owner2.png": "/pat/static/media/owner2.b872db23e6ce47fd72c7.png",
+    "static/media/maintan.png": "/pat/static/media/maintan.f83ccc716365354a0a15.png",
     "static/media/Absolut.jpg": "/pat/static/media/Absolut.95bf5ac84e7bba574382.jpg",
+    "static/media/contact.png": "/pat/static/media/contact.0de7f4c0d681f31fba22.png",
     "static/media/G5500.png": "/pat/static/media/G5500.3f4a836ceb2cc9b02c8b.png",
     "static/media/success2.jpg": "/pat/static/media/success2.5d93129772503e6db3c3.jpg",
     "static/media/5288.png": "/pat/static/media/5288.f9979d6cbaca8a001aad.png",
@@ -33,10 +35,7 @@
     "static/media/banner4.jpg": "/pat/static/media/banner4.3b62a7efa8487b81c9b4.jpg",
     "static/media/banner2.jpg": "/pat/static/media/banner2.354fa94af108166c5504.jpg",
     "static/media/XH321.png": "/pat/static/media/XH321.ea656041442792cdb14a.png",
-    "static/media/table3.png": "/pat/static/media/table3.24c3020d96bf5d6d4292.png",
-    "static/media/table4.png": "/pat/static/media/table4.82804d0d68174e655664.png",
     "static/media/cross.png": "/pat/static/media/cross.49bae570232f24e0be7f.png",
-    "static/media/table2.png": "/pat/static/media/table2.7ae542ec321fc4c0248f.png",
     "static/media/features.png": "/pat/static/media/features.27760e0823caac8633c0.png",
     "static/media/icom.png": "/pat/static/media/icom.5d617a6fbf270fae1d15.png",
     "static/media/XH321C.png": "/pat/static/media/XH321C.d259af489600d66e332c.png",
@@ -45,11 +44,11 @@
     "static/media/mail.png": "/pat/static/media/mail.4f94d0ea54af92aabb48.png",
     "static/media/fusLogo.svg": "/pat/static/media/fusLogo.de770701697553938aa4763ec9eb346c.svg",
     "index.html": "/pat/index.html",
-    "main.4fe19438.css.map": "/pat/static/css/main.4fe19438.css.map",
-    "main.98a10a05.js.map": "/pat/static/js/main.98a10a05.js.map"
+    "main.19c7c136.css.map": "/pat/static/css/main.19c7c136.css.map",
+    "main.67f87cf6.js.map": "/pat/static/js/main.67f87cf6.js.map"
   },
   "entrypoints": [
-    "static/css/main.4fe19438.css",
-    "static/js/main.98a10a05.js"
+    "static/css/main.19c7c136.css",
+    "static/js/main.67f87cf6.js"
   ]
 }
